@@ -1,0 +1,6 @@
+---
+applications:
+  - name: cfenv-example
+    memory: 64MB
+    disk_quota: 1GB
+    random-route: true

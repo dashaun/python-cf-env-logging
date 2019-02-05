@@ -1,2 +1,5 @@
 # python-cf-env-logging
-Sample app using Flask, do demonstrate cf-env, logging, in a cloud native python app
+Sample cloud native app with:
+Flask,
+cf-env,
+logging
